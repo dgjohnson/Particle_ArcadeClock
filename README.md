@@ -7,13 +7,8 @@ https://youtu.be/7BjGky7ScbA
 
 FOLLOW ME FOR MORE OF THE SAME:
 
-http://www.diy.engineering
-https://www.instagram.com/david.g.johnson/
-https://www.facebook.com/doityourselfengineering/
-https://twitter.com/DIY_Engineering
-https://www.youtube.com/channel/UCkgxMWPImqt1VxMaI9d79LA
-https://www.thingiverse.com/DavidJohnson
-https://www.linkedin.com/in/david-johnson-69a2972
+http://social.diy.engineering
+
 
 Information on the circuit can be found at https://circuits.io/circuits/2962119-8bitclock
 
